@@ -15,13 +15,13 @@ button {
   align-items: center;
   background-color: initial;
   background-image: linear-gradient(
-    rgba(179, 132, 201, 0.84),
-    rgba(57, 31, 91, 0.84) 50%
+    rgba(137, 132, 201, 0.84),
+    rgba(32, 31, 91, 0.84) 50%
   );
   border-radius: 42px;
   border-width: 0;
   box-shadow: rgba(57, 31, 91, 0.24) 0 2px 2px,
-    rgba(179, 132, 201, 0.4) 0 8px 12px;
+    rgba(132, 133, 201, 0.4) 0 8px 12px;
   color: #ffffff;
   cursor: pointer;
   display: flex;
@@ -36,7 +36,7 @@ button {
   text-decoration: none;
   text-shadow: rgba(255, 255, 255, 0.4) 0 0 4px,
     rgba(255, 255, 255, 0.2) 0 0 12px, rgba(57, 31, 91, 0.6) 1px 1px 4px,
-    rgba(57, 31, 91, 0.32) 4px 4px 16px;
+    rgba(37, 31, 91, 0.32) 4px 4px 16px;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
@@ -44,7 +44,7 @@ button {
 }
 
 button:hover {
-  background-image: linear-gradient(#b384c9, #391f5b 50%);
+  background-image: linear-gradient(#848ec9, #251f5b 50%);
 }
 
 h1 {
@@ -61,7 +61,7 @@ h1 {
 
 .search-container {
   width: 500px;
-  background-color: #b384c9;
+  background-color: #382d99;
   opacity: 80%;
   border-radius: 42px;
   margin: auto;
